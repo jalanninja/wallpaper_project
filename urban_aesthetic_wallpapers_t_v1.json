@@ -64,6 +64,12 @@
       "image": "file:///android_asset/image/wallpaper_09.jpg"
     },
     {
+      "id": 1010,
+      "name_category": "Nature",
+      "title": "Wallpaper_offline_10",
+      "image": "file:///android_asset/image/wallpaper_10.jpg"
+    },
+    {
       "id": 1,
       "name_category": "Nature",
       "title": "Wallpaper_01",
